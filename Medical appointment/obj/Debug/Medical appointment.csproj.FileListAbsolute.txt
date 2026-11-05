@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\course\course14\Medical appointment\bin\Debug\Medical appointment.exe.config
+C:\Users\Acer\Desktop\course\course14\Medical appointment\bin\Debug\Medical appointment.exe
+C:\Users\Acer\Desktop\course\course14\Medical appointment\bin\Debug\Medical appointment.pdb
+C:\Users\Acer\Desktop\course\course14\Medical appointment\obj\Debug\Medical appointment.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\course\course14\Medical appointment\obj\Debug\Medical_appointment.Form1.resources
+C:\Users\Acer\Desktop\course\course14\Medical appointment\obj\Debug\Medical_appointment.Properties.Resources.resources
+C:\Users\Acer\Desktop\course\course14\Medical appointment\obj\Debug\Medical appointment.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\course\course14\Medical appointment\obj\Debug\Medical appointment.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\course\course14\Medical appointment\obj\Debug\Medical appointment.exe
+C:\Users\Acer\Desktop\course\course14\Medical appointment\obj\Debug\Medical appointment.pdb
